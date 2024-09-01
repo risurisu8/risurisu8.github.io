@@ -45,7 +45,7 @@ table{
 }
 
 /*リンクの色*/
-.post-body a:link { color: #0000ff; }
-.post-body a:visited { color: #0000ff; }
+.post-body a:link { color: #8a2be2; }
+.post-body a:visited { color: #6a5acd; }
 .post-body a:hover { color: #ff0000; }
 .post-body a:active { color: #ff8000; }
