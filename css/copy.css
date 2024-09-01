@@ -1,0 +1,51 @@
+/*横幅の調整*/
+.layout{
+  max-width: 1700px;
+}
+h1{
+  font-size:1.8rem !important;
+  border-left: 6px #00c4b6 solid;
+}
+
+h2{
+  border-bottom: 3px solid #9e9eff;
+  font-size: 1.3rem;
+  margin: 30px 0;
+}
+h3{
+  border-left: 6px #00c4b6 solid;
+  font-size: 1.2rem;
+  margin: 25px 0;
+  padding: 2px 5px;
+}
+h4{
+  border-left: 2px #00c4b6 solid;
+  font-size: 1.15rem;
+  margin: 25px 0;
+  padding: 2px 5px;
+}
+h5{
+  border-left: double 3px #00c4b6;
+  font-size: 1.1rem;
+  padding: 0 5px;
+}
+h6{
+  font-size: 1.0rem;
+  padding: 0.1em 0;
+}
+.post-content{
+  font-size: 1.0rem;
+}
+table{
+  font-size: 0.85rem;
+}
+.a
+.archive .collection-title {
+  display: none !important;
+}
+
+/*リンクの色*/
+.post-body a:link { color: #0000ff; }
+.post-body a:visited { color: #0000ff; }
+.post-body a:hover { color: #ff0000; }
+.post-body a:active { color: #ff8000; }
