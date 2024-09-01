@@ -2905,7 +2905,7 @@ h1.page-title + .tag-cloud-list {
   color: #9e9eff;
 }
 #aside-content #card-toc .toc-content .toc-link.active {
-  background: #f9f;
+  background: #4d4398;
   color: #fff;
 }
 #aside-content .sticky_layout:only-child > :first-child {
@@ -3792,7 +3792,7 @@ h1.page-title + .tag-cloud-list {
   text-align: center;
 }
 #pagination .page-number.current {
-  background: #00c4b6;
+  background: #4d4398;
   color: var(--white);
 }
 #pagination .pagination-info {
@@ -3871,7 +3871,7 @@ h1.page-title + .tag-cloud-list {
   overflow-wrap: break-word;
 }
 #article-container a {
-  color: #99a9bf;
+  color: #2cb4ad;
 }
 #article-container a:hover {
   text-decoration: underline;
