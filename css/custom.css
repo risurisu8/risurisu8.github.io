@@ -38,13 +38,12 @@ h6{
 table{
   font-size: 0.85rem;
 }
-.a
-.archive .collection-title {
-  display: none !important;
+a{
+  color: #843175;
 }
-
-/*リンクの色*/
-.post-body a:link { color: #8a2be2; }
-.post-body a:visited { color: #6a5acd; }
-.post-body a:hover { color: #8a2be2; }
-.post-body a:active { color: #ff8000; }
+a:link{
+  color: #843175;
+}
+a:visited{
+  color: #6a5acd;
+}
